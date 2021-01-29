@@ -1,0 +1,24 @@
+:root {
+    /* Parent colors */
+    --base-strong: #000;
+    --base-weak: #fff;
+    --faint-strong: #c8d7e0;
+    --faint-weak: #fafbfb;
+    --accent-strong: #12263f;
+    --accent-weak: #ecf2f8;
+    --complement-strong: #cee9f2;
+    --complement-weak: #abbac3;
+    --critic-strong: #F74545;
+    --critic-weak: #FDEDED;
+    --warning-strong: #F8AE4F;
+    --warning-weak: #FCEBCF;
+    --success-strong: #27AE60;
+    --success-weak: #DEF8E9;
+    /* Shifts in Parent colors */
+    --faint-strong-down: #A5ADBB;
+    --faint-weak-up: #ECEEF5;
+
+    --card-border-radius: 9px;
+    --button-border-radius: 3px;
+  }
+  

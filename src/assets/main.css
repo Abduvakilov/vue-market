@@ -1,0 +1,79 @@
+.card {
+  background: var(--base-weak);
+  border-radius: var(--card-border-radius);
+  padding: 15px 30px 15px 15px;
+  border: none;
+}
+
+button, input[type="submit"], input[type="reset"] {
+	background: none;
+	color: inherit;
+	border: none;
+	padding: 0;
+	font: inherit;
+	cursor: pointer;
+	outline: inherit;
+}
+
+/* Chrome, Safari, Edge, Opera */
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+/* Firefox */
+input[type=number] {
+  -moz-appearance: textfield;
+}
+
+body {
+  line-height: 1.5;
+}
+
+a {
+  text-decoration: none;
+  color: #000;
+}
+
+.border, .button {
+  padding: 10px;
+  border-width: 1px;
+  border-style: solid;
+  border-color: var(--complement-weak);
+  border-radius: var(--button-border-radius);
+}
+
+.button {
+  display: inline-block;
+  color: currentColor;
+}
+
+.success {
+  background-color: var(--success-strong);
+  border: none;
+  border-radius: 8px;
+}
+
+.flex {
+  display: flex;
+} 
+.larger {
+  font-size: 150%;
+}
+
+.weak {
+  color: var(--complement-weak);
+}
+
+.mla {
+  margin-left: auto;
+}
+
+.w100 {
+  width: 100%;
+}
+
+.fg {
+  flex-grow: 1;
+}
