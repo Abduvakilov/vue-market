@@ -40,4 +40,4 @@ npm run lint
 See [Configuration Reference](https://cli.vuejs.org/config/).
 
 
-![Screenshot](https://github.com/Abduvakilov/vue-market/localhost_8080_.png "Screenshot")
+![Screenshot](https://github.com/Abduvakilov/vue-market/blob/main/localhost_8080_.png "Screenshot")
